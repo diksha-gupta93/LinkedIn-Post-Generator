@@ -21,7 +21,7 @@ This project is built using the following technologies:
 1. Clone the repository: 
    ```
    git clone https://github.com/diksha-gupta93/LinkedIn_Post_Generator.git
-   cd smartnews-analyst
+   cd LinkedIn_Post_Generator
    ```
 2. Install the required dependencies.
 3. Start the Streamlit application:
